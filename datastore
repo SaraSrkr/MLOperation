@@ -8,3 +8,10 @@ az login
 
 # enable application insight
 service.update(enable_app_insights=True)
+
+Spcpu
+
+bankmarketing_autoML
+
+
+bankmarketing_dataset
