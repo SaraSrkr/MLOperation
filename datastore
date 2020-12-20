@@ -11,6 +11,8 @@ service.update(enable_app_insights=True)
 
 Spcpu
 
+deployment-model
+
 bankmarketing_autoML
 
 
