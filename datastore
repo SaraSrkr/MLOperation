@@ -1,1 +1,10 @@
 https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
+
+python --version
+
+az --help
+az extension add -n azure-cli-ml
+az login
+
+# enable application insight
+service.update(enable_app_insights=True)
