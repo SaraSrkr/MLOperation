@@ -16,7 +16,7 @@ Automated ML Expermint : register bankmarketing dataset and create auto ML exper
 
 <img src="images/experiment is shown as completed.jpg">
 
-<img src="images/the best model.jpg">
+<img src="images/the best model .jpg">
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
