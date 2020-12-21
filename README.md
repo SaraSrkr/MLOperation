@@ -3,7 +3,8 @@
 
 This project goes through the main steps that take the trained model into production and allow the project stakeholder get ability to interact with it and consume endpoint to get or post data.
 
-## short description of future improvment 
+## short description of future improvment
+This project use ACI service to deploy the model which is known by its fast and simplicity and as a future improvement we can try to use AKS service that can expand but it will take more effort
 
 ## Architectural Diagram
 <img src="images/ML Operation Project.jpg" >
