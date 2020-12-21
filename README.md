@@ -46,17 +46,23 @@ I change the port to 9000
 
 ## Create, Publish and Consume a Pipeline : uploud jubter notebook and update the varibales to meet my enviroment then run all cells to create and puplish pipeline
 
-<img src="images/Apache Benchmark 3.jpg">
+<img src="images/pipeline has been created.jpg">
 
+<img src="images/pipeline endpoint.jpg">
 
+<img src="images/Bankmarketing dataset with the AutoML module.jpg">
 
+<img src="images/Published Pipeline overview.jpg">
 
+<img src="images/Use RunDetails Widget.jpg">
 
-
+<img src="images/pipeline scheduled run.jpg">
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+https://drive.google.com/file/d/1P6XFEQ15Xv8kNYpX9wJI7rnuaQ9_GzhQ/view?usp=sharing
+
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+------
