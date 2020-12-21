@@ -44,6 +44,13 @@ I change the port to 9000
 <img src="images/Apache Benchmark 3.jpg">
 
 
+## Create, Publish and Consume a Pipeline : uploud jubter notebook and update the varibales to meet my enviroment then run all cells to create and puplish pipeline
+
+<img src="images/Apache Benchmark 3.jpg">
+
+
+
+
 
 
 
