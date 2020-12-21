@@ -30,7 +30,7 @@ This project use ACI service to deploy the model which is known by its fast and 
 ## Show Swagger documentation after run swagger.sh and serve.py 
 I change the port to 9000
 
-<img src="images/swagger runs.jpg">
+<img src="images/swagger runs .jpg">
 
 
 
