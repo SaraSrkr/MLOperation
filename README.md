@@ -10,7 +10,13 @@ This project use ACI service to deploy the model which is known by its fast and 
 <img src="images/ML Operation Project.jpg" >
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+
+Automated ML Expermint : register bankmarketing dataset and create auto ML expermint and deploy the best model
+<img src="images/Registered Datasets.jpg">
+
+<img src="images/experiment is shown as completed.jpg">
+
+<img src="images/the best model.jpg">
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
