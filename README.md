@@ -3,15 +3,19 @@
 
 This project goes through the main steps that take the trained model into production and allow the project stakeholder get ability to interact with it and consume endpoint to get or post data.
 
-## Short description of future improvment
+
+# Architectural Diagram
+<img src="images/ML Operation Project.jpg" >
+
+
+# Short description of future improvment
 This project use ACI service to deploy the model which is known by its fast and simplicity and as a future improvement we can try to use AKS service that can expand but it will take more effort.
 
 Another suggestion is to improve the auto ML accuracy or choose another algorithm or maybe we can add more data to the model, or add more columns. Also we can make new columns with existing ones with future engineering, not future selection.
 
-## Architectural Diagram
-<img src="images/ML Operation Project.jpg" >
+# Key Steps
 
-## Key Steps
+## The required screenshots with a short description to demonstrate key steps.
 
 ## Automated ML Expermint : register bankmarketing dataset and create auto ML expermint and deploy the best model
 
@@ -38,11 +42,18 @@ Here we enable the application insights to allow login.
 
 ## Show Swagger documentation after run swagger.sh and serve.py 
 
-I change the port to 9000
+One way to interact with deployment model is to use swagger URL to create
+understandable interface to deal with HTTP requests to the endpoint.
+
+Here we were had to change the port to 9000 to run the sawagger.sh
 
 <img src="images/swagger runs .jpg">
 
+
 ## Concume Model Endpoint : copy rest url and its key to endpint.py file and excute it then excute benchmark.sh
+
+Use the REST URL to consume the endpoint and sent data to the model and get the appropriate response as a json payload.
+
 
 <img src="images/endpoint script runs against the API producing JSON output from the model.jpg">
 
@@ -54,7 +65,9 @@ I change the port to 9000
 <img src="images/Apache Benchmark 3.jpg">
 
 
-## Create, Publish and Consume a Pipeline : uploud jubter notebook and update the varibales to meet my enviroment then run all cells to create and puplish pipeline
+## Create, Publish and Consume a Pipeline : uploud jupyter notebook and update the varibales to meet the used enviroment then run all cells to create and puplish pipeline
+
+Another useful way to create save connection between the model and its user is to create pipeline and create auto ML then publish and consume the created endpoint by run prewritten jupyter notebook.
 
 <img src="images/pipeline has been created.jpg">
 
