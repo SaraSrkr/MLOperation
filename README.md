@@ -11,12 +11,22 @@ This project use ACI service to deploy the model which is known by its fast and 
 
 ## Key Steps
 
-Automated ML Expermint : register bankmarketing dataset and create auto ML expermint and deploy the best model
+## Automated ML Expermint : register bankmarketing dataset and create auto ML expermint and deploy the best model
+
 <img src="images/Registered Datasets.jpg">
 
 <img src="images/experiment is shown as completed.jpg">
 
 <img src="images/the best model .jpg">
+
+## enable login and excute logs.py to enable application insights
+
+<img src="images/Application Insights is enabled.jpg">
+
+<img src="images/logs by running the provided logs script.jpg">
+
+<img src="images/logs by running the provided logs script 2.jpg">
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
