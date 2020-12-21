@@ -27,6 +27,13 @@ This project use ACI service to deploy the model which is known by its fast and 
 
 <img src="images/logs by running the provided logs script 2.jpg">
 
+## Show Swagger documentation after run swagger.sh and serve.py 
+I change the port to 9000
+
+<img src="images/swagger runs.jpg">
+
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
