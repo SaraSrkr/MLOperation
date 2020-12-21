@@ -1,12 +1,12 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
+# Machine Learning Operations Project
 
-# Your Project Title Here
+This project goes through the main steps that take the trained model into production and allow the project stakeholder get ability to interact with it and consume endpoint to get or post data.
 
-*TODO:* Write an overview to your project.
+## short description of future improvment 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+<img src="images/ML Operation Project.jpg" >
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
