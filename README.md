@@ -32,6 +32,19 @@ I change the port to 9000
 
 <img src="images/swagger runs .jpg">
 
+## Concume Model Endpoint : copy rest url and its key to endpint.py file and excute it then excute benchmark.sh
+
+<img src="images/endpoint script runs against the API producing JSON output from the model.jpg">
+
+
+<img src="images/Apache Benchmark 1.jpg">
+
+<img src="images/Apache Benchmark 2.jpg">
+
+<img src="images/Apache Benchmark 3.jpg">
+
+
+
 
 
 
