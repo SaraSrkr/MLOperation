@@ -86,7 +86,6 @@ then publish and consume the created ppipeline endpoint by run prewritten jupyte
 
 ## Screen Recording
 
-https://drive.google.com/file/d/1P6XFEQ15Xv8kNYpX9wJI7rnuaQ9_GzhQ/view?usp=sharing
-
+https://drive.google.com/file/d/1MvPz1BFqLRv_Zcsv7b25LgNFuQCXntYq/view?usp=sharing
 
 
