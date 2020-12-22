@@ -67,7 +67,9 @@ Use the REST URL to consume the endpoint and sent data to the model and get the 
 
 ## Create, Publish and Consume a Pipeline : uploud jupyter notebook and update the varibales to meet the used enviroment then run all cells to create and puplish pipeline
 
-Another useful way to create save connection between the model and its user is to create pipeline and create auto ML then publish and consume the created endpoint by run prewritten jupyter notebook.
+Another useful way to create save connection between the model and its user is to create pipeline and create auto ML 
+then publish and consume the created ppipeline endpoint by run prewritten jupyter notebook.
+
 
 <img src="images/pipeline has been created.jpg">
 
@@ -87,5 +89,4 @@ Another useful way to create save connection between the model and its user is t
 https://drive.google.com/file/d/1P6XFEQ15Xv8kNYpX9wJI7rnuaQ9_GzhQ/view?usp=sharing
 
 
-## Standout Suggestions
-------
+
